@@ -4,8 +4,10 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-blue.svg)](https://developer.android.com/)
 [![Architecture](https://img.shields.io/badge/Architecture-64--bit-green.svg)](https://developer.android.com/guide/practices/supporting-arm64-v8a)
 [![C++17](https://img.shields.io/badge/C++-17-orange.svg)](https://isocpp.org/)
+[![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/saprdty)
+[![Email](https://img.shields.io/badge/Email-Support-red.svg)](mailto:foxcheatsid@gmail.com)
 
-A comprehensive, advanced memory address helper library for Android 64-bit applications, designed to work with both internal and external processes. This library provides powerful functionality for module information retrieval, process parsing, hook management, and memory manipulation.
+A comprehensive, advanced memory helper library for Android 64-bit applications, designed to work with both internal and external processes. This library provides powerful functionality for module information retrieval, process parsing, hook management, and memory manipulation.
 
 ## 🚀 Features
 
@@ -49,7 +51,7 @@ A comprehensive, advanced memory address helper library for Android 64-bit appli
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/android-memory-helper.git
+   git clone https://github.com/foxcheatsid31/Android-Memory-Helper-.git
    cd android-memory-helper
    ```
 
@@ -328,6 +330,35 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## 📞 Support
+
+If you encounter any issues or have questions, please reach out to us through one of the following channels:
+
+- **GitHub Issues**: [Report an issue](https://github.com/foxcheatsid31/Android-Memory-Helper/issues) or ask questions on our [Discussions](https://github.com/foxcheatsid31/Android-Memory-Helper/discussions) page
+- **Telegram Group**: [Join our community](https://t.me/saprdty) for real-time discussions and support
+- **Email Support**: [foxcheatsid@gmail.com](mailto:foxcheatsid@gmail.com) for private inquiries and bug reports
+
+We typically respond to GitHub issues within 24-48 hours and to emails within 1-2 business days.
+
+## ☕ Buy Me a Coffee
+
+If you find this library helpful and would like to support its development, consider buying us a coffee! Your contributions help us maintain and improve this library.
+
+### Binance TRC-20 Donation
+
+You can support us using Binance TRC-20 with the following address:
+```
+TMzw4ciFaDvkWF6bfynBCMri4dxDt8yVWk
+```
+
+**Note**: Please include a comment with your donation mentioning "Android Memory Helper" so we can acknowledge your support.
+
+### Other Ways to Support
+
+- **GitHub Sponsors**: [Become a sponsor](https://github.com/sponsors/foxcheatsid31)
+
+Every contribution, no matter how small, is greatly appreciated and helps us continue developing and maintaining this library!
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -337,14 +368,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by various Android memory manipulation tools and libraries
 - Thanks to the Android NDK team for providing the native development environment
 - Special thanks to contributors and the open-source community
-
-## 📞 Support
-[![Telegram](https://t.me/saprdty)](https://t.me/saprdty)
-
-If you encounter any issues or have questions, please file an issue on the GitHub repository.
-
-## ☕ Buy me coffee
-Thanks
 
 ---
 
