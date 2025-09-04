@@ -335,7 +335,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 If you encounter any issues or have questions, please reach out to us through one of the following channels:
 
 - **GitHub Issues**: [Report an issue](https://github.com/foxcheatsid31/Android-Memory-Helper/issues) or ask questions on our [Discussions](https://github.com/foxcheatsid31/Android-Memory-Helper/discussions) page
-- **Telegram Group**: [Join our community](https://t.me/saprdty) for real-time discussions and support
+- **Telegram User**: [Join our community](https://t.me/saprdty) for real-time discussions and support
 - **Email Support**: [foxcheatsid@gmail.com](mailto:foxcheatsid@gmail.com) for private inquiries and bug reports
 
 We typically respond to GitHub issues within 24-48 hours and to emails within 1-2 business days.
